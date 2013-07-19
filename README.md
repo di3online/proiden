@@ -1,0 +1,4 @@
+go
+==
+
+di3gosrc
